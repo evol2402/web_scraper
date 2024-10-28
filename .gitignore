@@ -1,0 +1,33 @@
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Environment files
+.env
+.vscode/
+.idea/
+*.log
+*.sqlite3
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Jupyter Notebook Checkpoints
+.ipynb_checkpoints
+
+# Python virtual environments
+venv/
+env/
+
+# macOS and Windows files
+.DS_Store
+desktop.ini
+
+# CSV output files
+*.csv
+
+# Ignore driver binaries (optional)
+chromedriver
+chromedriver.exe
